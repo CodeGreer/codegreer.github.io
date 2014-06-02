@@ -25,7 +25,8 @@ p.border {
     font-family: 'Oxygen', sans-serif;
     font-size: 2em;
     color: #ECD523;
-    border-bottom: .1em dotted #9C1759;
+    padding-bottom: 2em;
+    border-bottom: .15em dotted #9C1759;
 }
 
 span.spark {
