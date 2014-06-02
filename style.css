@@ -1,0 +1,35 @@
+
+#container {
+    background-color: #1BA2B5;
+    width: 75%;
+    height: auto;
+    margin-left: auto;
+    margin-right:auto;
+    padding: 2em;
+}
+
+h1.title {
+    font-family: 'Lobster', cursive;
+    font-size: 6em;
+    color: #9C1759;
+    text-align: center;
+}
+
+p {
+    font-family: 'Oxygen', sans-serif;
+    font-size: 2em;
+    color: #ECD523;
+}
+
+p.border {
+    font-family: 'Oxygen', sans-serif;
+    font-size: 2em;
+    color: #ECD523;
+    border-bottom: .1em dotted #9C1759;
+}
+
+span.spark {
+    font-family: 'Lobster', cursive;
+    font-size: 1em;
+    color: #9C1759;
+}
